@@ -9,7 +9,6 @@ public:
     }
 };
 
-// Derived Class
 class Dog : public Animal {
 public:
     void bark() {
